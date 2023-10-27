@@ -5,7 +5,9 @@
 ![redLine](https://github.com/artinmohajeri/Soccer-Game/assets/95845593/ee32391c-bce6-4598-8a3f-d7d3aa6752cd)
 
 # How to play this game :
-### At first you have to open the createGame.html file to customize your own team
+### At first you have to open the createGame.html file to customize your own team (name of your players, name of your team/leauge, color of your players, and image of your team). You have to compelte all the forms (exept images. they are optional).
+##### NOTE! you can not go to the main soccer page unless you complete the forms.
+### Once you completed the form, click submit and you will be redirected to the soccer.html which is the main page.
 
 
 
