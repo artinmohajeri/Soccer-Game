@@ -9,6 +9,12 @@
 ##### NOTE! you can not go to the main soccer page unless you complete the forms.
 ### Once you completed the form, click submit and you will be redirected to the soccer.html which is the main page.
 
+### If you want to move a player at first click on that player and then press the arrow buttons on keyboard. If you want to move the ball, you shoud press on (q, w, e, a, d, z, x, c) to move the ball to different directions.
+
+### If a player and the ball are in a same square, you can press "l" and then move your player, the ball will move with the player as well and stick to the player.
+
+### On the top right corner of the field. ther is a black triangle shaped button. if you click on that. a Modal will open that shows informtaion about both teams and you can roll dice there. and if you click "finish game" the game will be finished and all the team's information will be deleted and you will be redirected to the createGame page to create the game again.
+
 
 
 ![creategame](https://github.com/artinmohajeri/Soccer-Game/assets/95845593/275ca577-4cda-4b44-9fc7-cbbe1ba75c48)
