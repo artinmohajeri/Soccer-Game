@@ -7,7 +7,6 @@
 # How to play this game :
 ### At first you have to open the createGame.html file to customize your own team (name of your players, name of your team/leauge, color of your players, and image of your team). You have to compelete all the forms (images are optional).
 ##### NOTE!  (you can not go to the main soccer page unless you complete the forms).
-```diff
 - This text is red.
 ### Once you completed the form, click submit and you will be redirected to the soccer.html which is the main page.
 
