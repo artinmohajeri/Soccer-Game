@@ -5,9 +5,9 @@
 ![redLine](https://github.com/artinmohajeri/Soccer-Game/assets/95845593/ee32391c-bce6-4598-8a3f-d7d3aa6752cd)
 
 # How to play this game :
-### At first you have to open the createGame.html file to customize your own team (name of your players, name of your team/leauge, color of your players, and image of your team). You have to compelete all the forms (images are optional).
+### At first you have to open the createGame.html file to customize your own team (name of your players, name of your team/leauge, color of your players, and image of your team). You have to complete all the forms (images are optional).
 ##### NOTE!  (you can not go to the main soccer page unless you complete the forms).
-- This text is red.
+- NOTE! (you can not go to the main page unless you complete the form)
 ### Once you completed the form, click submit and you will be redirected to the soccer.html which is the main page.
 
 ### If you want to move a player at first click on that player and then press the arrow buttons on keyboard (if you want to use your numericPad make sure turn on the numlk). If you want to move the ball, you shoud press the kyes: (q, w, e, a, d, z, x, c) to move the ball to different directions.
@@ -16,7 +16,7 @@
 
 ### On the top right corner of the field. ther is a black triangle shaped button. if you click on that. a Modal will open that shows informtaion about both teams and you can roll dice there. and if you click "finish game" the game will be finished and all the team's information will be deleted and you will be redirected to the createGame page to create the game again.
 
-##### NOTE! (You can change number of dices but I dont recommend. the game works with just two).
+- NOTE! (You can change number of dices but I dont recommend. the game works with just two).
 ### The left dice is for normall player and ball movement (up, down, left, right).
 ### The right dice is for speciall moves (1:dribble,  2:giving the ball away , 3:foul,  4:cross,  5:zigzag moves,  6: 6 + left side dice moves)
 
