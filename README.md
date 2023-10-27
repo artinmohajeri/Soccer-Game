@@ -1,6 +1,9 @@
 # Soccer Game
 ## this website is a new game (playing soccer with dice) and I have used HTML5, CSS3, ES6 and Bootstrap5 in this project.
-### the whole Idea of this game is new and uniqe. I have invented it.
+## the whole Idea of this game is new and uniqe. I have invented it.
+
+# How to play this game :
+### at first you have to open the createGame.html file to customize your own team
 
 
 
