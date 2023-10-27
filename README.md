@@ -7,6 +7,7 @@
 # How to play this game :
 ### At first you have to open the createGame.html file to customize your own team (name of your players, name of your team/leauge, color of your players, and image of your team). You have to compelete all the forms (images are optional).
 ##### NOTE!  (you can not go to the main soccer page unless you complete the forms).
+<span style="color: red;">This text is red.</span>
 ### Once you completed the form, click submit and you will be redirected to the soccer.html which is the main page.
 
 ### If you want to move a player at first click on that player and then press the arrow buttons on keyboard (if you want to use your numericPad make sure turn on the numlk). If you want to move the ball, you shoud press the kyes: (q, w, e, a, d, z, x, c) to move the ball to different directions.
