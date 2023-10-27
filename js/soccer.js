@@ -86,7 +86,7 @@ document.addEventListener("keydown", function (key) {
         const currentPosition = playerPositions.get(activePlayer);
         let currentLeft = currentPosition.left;
         let currentTop = currentPosition.top;
-        if (key.key = "delete") {
+        if (key.key === "Backspace") {
             activePlayer.style.display = "none"
             activePlayer.removeAttribute("title")
         }
