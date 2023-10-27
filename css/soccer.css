@@ -1,0 +1,161 @@
+* {
+    box-sizing: -box;
+}
+
+body {
+    height: 100vh;
+    width: 1519.2px;
+    height: 730px;
+    background-color: rgb(0, 188, 0);
+    overflow: hidden;
+}
+
+.yard {
+    align-content: flex-start;
+    height: 726px;
+    width: 1519.2px;
+    position: relative;
+}
+
+.home {
+    width: 66px;
+    height: 66px;
+    border: 1px solid black;
+}
+
+.player {
+    cursor: pointer;
+    width: 20px;
+    height: 50px;
+    position: absolute;
+    transition: 0.3s;
+    z-index: 10;
+}
+
+.team1-goalkeaper {
+    top: 340px;
+    left: 10px;
+}
+
+.team2-goalkeaper {
+    top: 340px;
+    left: 1488px;
+    z-index: 10;
+}
+
+.team2-player1 {
+    top: 340px;
+    left: 960px;
+    z-index: 10;
+}
+
+.team2-player2 {
+    top: 142px;
+    left: 1158px;
+    z-index: 10;
+}
+
+.team2-player3 {
+    top: 538px;
+    left: 1158px;
+    z-index: 10;
+}
+
+.team1-player1 {
+    top: 142px;
+    left: 341px;
+}
+
+.team1-player2 {
+    top: 340px;
+    left: 539px;
+}
+
+.team1-player3 {
+    top: 538px;
+    left: 341px;
+}
+
+.team1 .player-body {
+    background-color: rgb(214, 0, 0);
+}
+
+.team2 .player-body {
+    background-color: rgb(0, 119, 255);
+}
+
+.player-body {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.player-head {
+    width: 100%;
+    height: 40%;
+    background-color: black;
+    border-radius: 100%;
+}
+
+.target {
+    position: absolute;
+    width: 66px;
+    height: 198px;
+    border: 4px solid white;
+}
+
+.target1 {
+    border-right: none;
+    top: 266px;
+    left: 0;
+}
+
+.target2 {
+    border-left: none;
+    top: 266px;
+    /* right: 18px; */
+    left: 1452px;
+}
+.ball {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 351px;
+    left: 747px;
+    transition: 0.3s;
+}
+
+.ball img {
+    width: 25px;
+    height: 25px;
+}
+
+.popup-btn {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    left: 1470px;
+}
+
+img[src="./img/triangle.png"] {
+    width: 40px;
+    height: 40px;
+    transform: rotate(180deg);
+    cursor: pointer;
+}
+.team-img{
+    width: 70px;
+    height: 70px;
+    /* border-radius: 100%; */
+}
+.team-img img{
+    overflow: hidden; 
+    border-radius: 100%;
+}
+.cover{
+    width: 450px;
+    height: 138px;
+    position: absolute;
+    top: 104px;
+}
