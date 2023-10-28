@@ -10,7 +10,8 @@
 - NOTE! (you can not go to the main page unless you complete the form)
 ### Once you completed the form, click submit and you will be redirected to the soccer.html which is the main page.
 
-### If you want to move a player, at first click on that player and then press the arrow buttons on keyboard (if you want to use your numericPad make sure turn on the numlk). If you want to move the ball, you shoud press the kyes: (q, w, e, a, d, z, x, c) to move the ball to different directions.
+### If you want to move a player, at first click on that player and then press the arrow buttons on keyboard (if you want to use your numericPad make sure turn on the numlk). 
+### If you want to move the ball, you shoud press the kyes: (q, w, e, a, d, z, x, c) to move the ball to different directions.
 
 ### If a player and the ball are in a same square, you can press "l". it makes ball and player stick together so move together.
 
