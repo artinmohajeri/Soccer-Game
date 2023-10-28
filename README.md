@@ -15,7 +15,7 @@
 
 ### If a player and the ball are in a same square, you can press "l". it makes ball and player stick together so move together.
 
-### On the top right corner of the field ther is a black triangle shaped button. if you click on that, a Modal will open that shows informtaion about both teams and you can roll dice there. And if you click "finish game" the game will be finished and all the team's information will be deleted and you will be redirected to the createGame page to create the game. Again.
+### On the top right corner of the field there is a black triangle shaped button. if you click on that, a Modal will open that shows informtaion about both teams and you can roll dice there. And if you click "finish game" the game will be finished and all the team's information will be deleted and you will be redirected to the createGame page to create the game. Again.
 
 - NOTE! (You can change number of dices but I dont recommend. the game works with just two).
 ### The left dice is for normall player and ball movement (up, down, left, right).
