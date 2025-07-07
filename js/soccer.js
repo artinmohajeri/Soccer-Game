@@ -172,7 +172,7 @@ document.addEventListener("keydown", function (key) {
         if (key.key === "w") {
             currentBallTop -= 66
         }
-        if (key.key === "x") {
+        if (key.key === "s") {
             currentBallTop += 66
         }
         if (key.key === "q") {
